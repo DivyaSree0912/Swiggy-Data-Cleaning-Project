@@ -65,8 +65,7 @@ This project focuses on cleaning, analyzing, and visualizing a Swiggy restaurant
 
 1. swiggy.csv (Original)
 2. cleaned\_swiggy\_data.csv (After cleaning)
-
-1\. Data\_Cleaning.ipynb
+3. \. Data\_Cleaning.ipynb
 
 
 
